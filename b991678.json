@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Gaurav Parmar",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2019kucp1026@iiitkota.ac.in",
+        "phone": "+917742862844",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Nathdwara",
+            "postalCode": "313301",
+            "city": "Nathdwara",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "thegparmar",
+                "url": "https://www.twitter.com/thegparmar"
+            },
+            {
+                "network": "Github",
+                "username": "thegauravparmar",
+                "url": "https://www.github.com/thegauravparmar"
+            },
+            {
+                "network": "linkedin",
+                "username": "thegauravparmar",
+                "url": "https://www.linkedin.com/in/thegauravparmar/"
+            },
+            {
+                "network": "Instagram",
+                "username": "thegauravparmar",
+                "url": "https://instagram.com/thegauravparmar"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Web Developer",
+            "website": "https://iiitiansnetwork.com",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the first release of IIITians Network Website"
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        },
+        {
+            "company": "e-Learning And Data Analytics Lab",
+            "position": "Web Developer",
+            "website": "https://eldalab.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the Website of e-Learning And Data Analytics Lab, IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "1341st Rank in Kick Start 2021",
+            "awarder": "Google",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "e-Learning And Data Analytics Lab",
+            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
+            "link": "https://eldalab.in"
+        },
+        {
+            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": "https://github.com/thegauravparmar/Stock_Crypto_Whatsapp_Bot"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "Express",
+                "Next",
+                "PHP",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "Java",
+                "Python",
+                "Dart",
+                "Wordpress"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
